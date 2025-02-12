@@ -46,3 +46,5 @@ RestAssured-API-Testing/
 │   │   │   │   ├── DeleteUserTest.java
 │── pom.xml
 │── README.md
+![Screenshot 2025-02-12 123140](https://github.com/user-attachments/assets/35780e4f-86d8-457f-a486-e05478c4aae9)
+
